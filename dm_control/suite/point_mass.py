@@ -26,7 +26,7 @@ from dm_control.utils import containers
 from dm_control.utils import rewards
 import numpy as np
 
-_DEFAULT_TIME_LIMIT = 20
+_DEFAULT_TIME_LIMIT = 500
 SUITE = containers.TaggedTasks()
 
 
